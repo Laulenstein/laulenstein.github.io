@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: crimson;
+}
+canvas {
+  display: block;
+  color: blueviolet;
+  border-color: coral;
+  border: 1cm;
+}
+h1 {color: rgb(44, 172, 129);}
